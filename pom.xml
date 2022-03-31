@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <spring.framework.version>3.2.7.RELEASE</spring.framework.version>
+        <spring.framework.version>5.3.18</spring.framework.version>
         <org.activiti.version>5.21.0</org.activiti.version>
     </properties>
 
